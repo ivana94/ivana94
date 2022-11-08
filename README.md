@@ -6,5 +6,5 @@ I'm a software engineer and teacher based in NYC. I believe in a holistic approa
 
 -   😄 Pronouns: she/her
 -   🛠 I'm experienced in Javascript, Node (Express), React (+Gatsby, Next), Vue (+Nuxt), Postgres, Redis, Jest, etc
--   🌱 I'm currently learning about web3
+-   🌱 I'm currently learning Kotlin
 -   📖 I'm currently reading "On Earth We're Briefly Gorgeous" by Ocean Vuong
